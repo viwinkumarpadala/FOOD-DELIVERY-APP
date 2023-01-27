@@ -1,0 +1,33 @@
+.imagebox:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.2);
+}
+
+
+.countries:hover{
+    cursor: pointer;
+}
+
+
+#seeallfoods-btn:hover{
+    background-color:#cb202d;
+    cursor: pointer;
+    color: #fff;
+}
+
+#ordernow-btn:hover{
+    color:#cb202d;
+    cursor: pointer;
+    background-color: #fff;
+}
+
+.contname:hover{
+    cursor: pointer;
+    color:#cb202d;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width:"80px"
+}
